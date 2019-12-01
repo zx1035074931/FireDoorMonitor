@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\program files\opencv\build\include\opencv2\flann\result_set.h(306): warning C4003: “max”宏的实参不足
+d:\program files\opencv\build\include\opencv2\flann\result_set.h(428): warning C4003: “max”宏的实参不足
+d:\program files\opencv\build\include\opencv2\flann\lsh_index.h(203): warning C4003: “max”宏的实参不足
+d:\program files\opencv\build\include\opencv2\flann\lsh_index.h(269): warning C4003: “max”宏的实参不足
+  FireDoorMonitor.vcxproj -> F:\大学工作\实验项目\RZ002-基于图像处理的消防门安全隐患识别\1项目完整主体\x64\Debug\FireDoorMonitor.exe
